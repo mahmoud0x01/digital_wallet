@@ -11,3 +11,5 @@ This is a basic digital wallet system written in C#
 
 
 `Using object Storage as Data Storage method instead of a DB` in **storageuser.txt** and **storagewallets.txt**
+
+## check the sequence and Activity Diagram for more understanding of the project
