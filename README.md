@@ -10,4 +10,4 @@ This is a basic digital wallet system written in C#
 - Calculate Statistics based on History of Operations
 
 
-`Using object Storage as Data Storage method instead of a DB`
+`Using object Storage as Data Storage method instead of a DB` in **storageuser.txt** and **storagewallets.txt**
